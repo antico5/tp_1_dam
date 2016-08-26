@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="de_0_a_5000_corto">0.25</string>
+    <string name="de_0_a_5000_largo">0.275</string>
+    <string name="de_5000_a_99999_corto">0.3</string>
+    <string name="de_5000_a_99999_largo">0.323</string>
+    <string name="mayor_99999_corto">0.35</string>
+    <string name="mayor_99999_largo">0.385</string>
+</resources>

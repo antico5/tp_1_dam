@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab01c2016</string>
+    <string name="titulo">Calculadora de Interes</string>
+    <string name="email">Correo electronico</string>
+    <string name="cuit">CUIT</string>
+    <string name="monto">Monto deseado</string>
+    <string name="dias">Duracion del plazo fijo</string>
+    <string name="rendimiento">Intereses ganados</string>
+    <string name="texto_boton">Concretar plazo fijo</string>
+    <string name="renovacion_automatica">Renovar automaticamente al finalizar.</string>
+</resources>
