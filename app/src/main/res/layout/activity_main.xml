@@ -68,7 +68,7 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:ems="10"
-        android:id="@+id/editText3"
+        android:id="@+id/monto"
         android:layout_below="@+id/textView4"
         android:layout_alignParentStart="true"
         android:layout_alignEnd="@+id/editText2" />
@@ -79,7 +79,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/dias"
         android:id="@+id/textView5"
-        android:layout_below="@+id/editText3"
+        android:layout_below="@+id/monto"
         android:layout_alignParentStart="true" />
 
     <SeekBar
@@ -88,7 +88,7 @@
         android:id="@+id/selectorDias"
         android:layout_below="@+id/textView5"
         android:layout_alignParentStart="true"
-        android:layout_alignEnd="@+id/editText3"
+        android:layout_alignEnd="@+id/monto"
         android:max="180"
         android:progress="10"
         android:indeterminate="false" />
@@ -117,7 +117,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="0$"
-        android:id="@+id/textView7"
+        android:id="@+id/rendimiento"
         android:layout_below="@+id/textView6"
         android:layout_alignParentStart="true" />
 
@@ -126,7 +126,7 @@
         android:layout_height="wrap_content"
         android:text="@string/renovacion_automatica"
         android:id="@+id/checkBox"
-        android:layout_below="@+id/textView7"
+        android:layout_below="@+id/rendimiento"
         android:layout_alignParentStart="true"
         android:layout_alignEnd="@+id/selectorDias"
         android:checked="false" />
@@ -135,7 +135,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/texto_boton"
-        android:id="@+id/button"
+        android:id="@+id/concretar"
         android:layout_below="@+id/checkBox"
         android:layout_alignParentStart="true" />
 
