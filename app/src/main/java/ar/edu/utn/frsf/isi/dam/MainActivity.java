@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void bindSeekBar(){
         // comentario
+        //y otro comentario
         SeekBar selectorDias = (SeekBar) findViewById(R.id.selectorDias);
         selectorDias.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener(){
             @Override
