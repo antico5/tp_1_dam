@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+    //prueba de git en w7
     private double calcularRendimiento(double monto, int dias){
         String tasa;
         double tasa_interes;
